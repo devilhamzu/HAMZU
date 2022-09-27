@@ -13,7 +13,7 @@ pip install mechanize
 
 pip install bs4
 
-rm -rf AKING
+rm -rf HAMZU
 
 git clone  https://github.com/devilhamzu/HAMZU.git
 
